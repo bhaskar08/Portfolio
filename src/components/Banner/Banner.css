@@ -157,15 +157,24 @@
         grid-template-columns: 1fr;
 
     } 
-    .banner img {
-        
-    }
     
     .banner_img{
-        width:80%;
+        /* width:80%; */
         display: flex !important;
         justify-content: center;
         
+    }
+
+    .banner_img>img{
+        /* width:80%; */
+        display: flex !important;
+        justify-content: center;
+        
+    }
+
+    .banner img
+    {
+        margin-left: 0;
     }
 
     .banner {

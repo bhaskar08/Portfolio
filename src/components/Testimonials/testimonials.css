@@ -24,7 +24,7 @@
     background: var(--color-bg-variant);
     text-align: center;
     width: 100%;
-    padding: 2rem;
+    padding: 1rem;
     border-radius: 2rem;
     user-select: none;
     display: flex;
@@ -103,8 +103,9 @@
 
 
 @media screen and (max-width : 1200px) {
-    h3{
-        font-size: 1.5rem;
+    h3
+    {
+        font-size: 1.2rem;
     }
 }
 
@@ -121,10 +122,17 @@
 }
 
 @media screen and (max-width : 600px) {
-    #testimonial{
-        margin: 0 20% 0 20%;
-    }
+
     .testimonial_container {
         grid-template-columns: 1fr;
+    }
+    .maq_img
+    {
+        width: 0;
+    }
+
+    .testimonial_container
+    {
+        width: 100%;
     }
 }

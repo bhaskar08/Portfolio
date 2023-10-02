@@ -1,7 +1,6 @@
 import React from "react";
 import "./testimonials.css";
 import maq from "../../assets/img/maq.jpg";
-import { GoDotFill } from 'react-icons/go';
 
 const Testimonials = () => {
   return (
@@ -10,7 +9,7 @@ const Testimonials = () => {
       <div className="container testimonial_container">
         <div className="testimonial_item">
           <div className="info">
-            <h4 className="role">Associate Software Engineer (Summer 2023)</h4>
+            <h3 className="role">Associate Software Engineer (Summer 2023)</h3>
             <div className="info-item">
                 <ul>
                     <li>Wrote codes for helping in the rollover changes for some modules.</li>

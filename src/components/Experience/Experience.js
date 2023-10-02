@@ -15,7 +15,7 @@ const Experience = () => {
 
             <div className='container experience_container'>
                 <div className='experience_card' data-aos="fade-up">
-                    <h3> Porgramming Languages </h3>
+                    <h3> Programming Languages </h3>
                     <div className='experience_content'>
                         <article className='experience_details'><BsFillPatchCheckFill className='experience_icon' />
                             <div>
