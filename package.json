@@ -1,5 +1,5 @@
 {
-  "name": "personal-portfolio",
+  "name": "bhaskar-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -47,18 +47,7 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "author": "Ayush",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/react-router-dom": "^5.3.3",
-    "parcel": "^2.9.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bhaskar08/Portfolio.git"
-  },
-  "bugs": {
-    "url": "https://github.com/bhaskar08/Portfolio/issues"
-  },
-  "homepage": "https://github.com/bhaskar08/Portfolio#readme"
+  "devDependencies": {},
+  "author": "Bhaskar",
+  "license": "ISC"
 }
