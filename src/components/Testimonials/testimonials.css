@@ -50,7 +50,7 @@
 .info-item li
 {
     font-size: 1.3rem;
-    padding: 0.5rem;
+    padding: 0.3rem;
     font-size: 18px;
     text-align: left;
 }
@@ -133,6 +133,6 @@
 
     .testimonial_container
     {
-        width: 100%;
+        width: 90%;
     }
 }

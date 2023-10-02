@@ -119,6 +119,8 @@
     .experience_container {
         gap: 1rem;
         grid-template-columns: 1fr;
+        /* height: 120rem; */
+        /* width: 75%; */
     }
 
     .experience_container>div {
